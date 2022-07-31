@@ -1,0 +1,2 @@
+import adivinhacao
+import forca
